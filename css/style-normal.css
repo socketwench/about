@@ -1,5 +1,3 @@
----
----
 /*
 	"About me" theme inspired by Aerial by HTML5 UP
 	html5up.net | @n33co
@@ -20,6 +18,6 @@
 	@keyframes bg { 0% { -moz-transform: translate3d(0,0,0); -webkit-transform: translate3d(0,0,0); -o-transform: translate3d(0,0,0); -ms-transform: translate3d(0,0,0); transform: translate3d(0,0,0); } 100% { -moz-transform: translate3d(-750px,0,0); -webkit-transform: translate3d(-750px,0,0); -o-transform: translate3d(-750px,0,0); -ms-transform: translate3d(-750px,0,0); transform: translate3d(-750px,0,0); } }
 
 	#bg {
-		background-size: {{ site.background.size_normal }} auto;
+		background-size: 1300px auto;
 		width: 2250px;
 	}
